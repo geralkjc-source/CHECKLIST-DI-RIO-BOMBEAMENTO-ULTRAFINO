@@ -1,0 +1,5 @@
+{
+  "name": "Gestor de Bombeamento Ultrafino",
+  "description": "Sistema profissional para geração e gerenciamento de checklists diários de bombeamento, com monitoramento de status SCADA e exportação instantânea para relatórios formatados.",
+  "requestFramePermissions": []
+}
